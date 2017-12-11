@@ -1,0 +1,904 @@
+Case #1:
+I/O////////////
+Case #2:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOO////
+Case #3:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOI//////////
+Case #4:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/OOIOO
+Case #5:
+I/O/I//////////
+Case #6:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOIOOOI//
+Case #7:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+//O////////////
+Case #8:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/IOOOIOO
+Case #9:
+I/O/I/O/I/O/I/O
+I/O/I/O/I//////
+Case #10:
+I/O/I/O/I/O/I//
+Case #11:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/OOIOOOIOOOIOO
+Case #12:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOIOOOI//
+Case #13:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I//////////////
+Case #14:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOOOI//
+Case #15:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOO////////////
+Case #16:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/OOIOOOIOO
+Case #17:
+I/O/I/O/I//////
+Case #18:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOOOIOO
+Case #19:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOIOOOI//
+Case #20:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOI//////////
+Case #21:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/IOO
+Case #22:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOI//////////
+Case #23:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/IOOOIOO
+Case #24:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/OOIOOOIOOOIOO
+Case #25:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/OOIOO
+Case #26:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOO////////////
+Case #27:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/OOIOOOIOO
+Case #28:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/IOOOIOO
+Case #29:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/IOO
+Case #30:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I//////////////
+Case #31:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOO////////
+Case #32:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOO////////
+Case #33:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOI//////
+Case #34:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/OOIOOOIOO
+Case #35:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+//O////////////
+Case #36:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+Case #37:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/IOOOIOO
+Case #38:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOO////////////
+Case #39:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+Case #40:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOOOIOO
+Case #41:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOIOOOI//
+Case #42:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOO////////////
+Case #43:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/IOO
+Case #44:
+I/O/I/O////////
+Case #45:
+I/O/I/O/I/O/I/O
+I/O/I/O////////
+Case #46:
+I/O/I/O/I/O/I/O
+I/O/I//////////
+Case #47:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOO////
+Case #48:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I//////////////
+Case #49:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/OOIOO
+Case #50:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOI//////////
+Case #51:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/OOIOOOIOO
+Case #52:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOI//////
+Case #53:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOIOO////
+Case #54:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I//
+Case #55:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOIOO////
+Case #56:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/IOOOIOOOIOO
+Case #57:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/IOOOIOO
+Case #58:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOOOI//
+Case #59:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOI//////
+Case #60:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+//O////////////
+Case #61:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/OOIOO
+Case #62:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I//////////////
+Case #63:
+I/O/I/O/I/O////
+Case #64:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O////
+Case #65:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I//////////////
+Case #66:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+Case #67:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOOOIOO
+Case #68:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOI//////
+Case #69:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+//O////////////
+Case #70:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOI//////
+Case #71:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOI//////////
+Case #72:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/OOIOOOIOOOIOO
+Case #73:
+I/O/I/O/I/O/I/O
+I//////////////
+Case #74:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOIOOOIOO
+Case #75:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+Case #76:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/IOOOIOO
+Case #77:
+I//////////////
+Case #78:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/IOOOIOOOIOO
+Case #79:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOO////////////
+Case #80:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOOOIOO////
+Case #81:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOO////////////
+Case #82:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOO////////
+Case #83:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/IOOOIOOOIOO
+Case #84:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOOOI//////
+Case #85:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOO////////
+Case #86:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/OOIOOOIOO
+Case #87:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+//O////////////
+Case #88:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/OOIOOOIOO
+Case #89:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/OOIOOOIOOOIOO
+Case #90:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOIOO////////
+Case #91:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/OOIOO
+Case #92:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/IOOOIOO
+Case #93:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOI//////////
+Case #94:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOI//////////
+Case #95:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+OOOOIOO////////
+Case #96:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOOOI//////////
+Case #97:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I//////////////
+Case #98:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+IOO////////////
+Case #99:
+I/O/I/O/I/O/I/O
+I/O////////////
+Case #100:
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I/O/I/O/I/O/I/O
+I//////////////

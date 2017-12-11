@@ -1,0 +1,24 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="survivor" type="PythonConfigurationType" factoryName="Python">
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+      <env name="PYTHONIOENCODING" value="UTF-8" />
+      <env name="PYCHARM_HOSTED" value="1" />
+      <env name="PYTHONPATH" value="C:\Mahnaz\code\PycharmProjects\survivor" />
+    </envs>
+    <option name="SDK_HOME" value="C:\Python34\python.exe" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../code/PycharmProjects/survivor" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <module name="survivor" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../code/PycharmProjects/survivor/castUrl.py" />
+    <option name="PARAMETERS" value="" />
+    <option name="SHOW_COMMAND_LINE" value="true" />
+    <RunnerSettings RunnerId="PythonRunner" />
+    <ConfigurationWrapper RunnerId="PythonRunner" />
+    <method />
+  </configuration>
+</component>

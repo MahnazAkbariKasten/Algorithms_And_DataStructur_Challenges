@@ -1,0 +1,26 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>This file provides data descriptions for each data element provided in College Scorecard. Please note that datafiles available in the “Download All Data” provide more data elements and represent a larger universe of institutions than what is presented in the Scorecard consumer page here: collegescorecard.ed.gov. For more information on Scorecard data, see the “Data Documentation ” link and the “Technical Paper ”link on the scorecard data website: https://collegescorecard.ed.gov/data/documentation/</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>The “Glossary” worksheet provides definitions ...</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>The “data_dictionary” worksheet provides descr...</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>The worksheet named “cohort_map” provides a de...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>The Worksheet named “most_recent_cohort_map” p...</td>
+    </tr>
+  </tbody>
+</table>

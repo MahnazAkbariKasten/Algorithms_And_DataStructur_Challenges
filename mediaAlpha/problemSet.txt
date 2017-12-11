@@ -1,0 +1,105 @@
+Hi Mahnaz, 
+
+Thank you so much for connecting with Amy today. She mentioned the call went well and she would like me to send you our standard programming quiz for completion at your convenience. They shouldn't take too much time, but I understand if you can't get these over to me right away.
+
+Below are two problems:
+
+1.  Write a Perl function that takes in a password and checks whether it's valid.  The password should follow the following rule:
+
+Passwords must be at least 8 characters long.
+Between 8-11: requires mixed case letters, numbers and symbols
+Between 12-15: requires mixed case letters and numbers
+Between 16-19: requires mixed case letters
+20+: any characters desired
+
+2. Parentheses removal function. Given a string containing an expression, return the expression with unnecessary parentheses removed. 
+
+For example:
+
+f("1*(2+(3*(4+5)))") ===> "1*(2+3*(4+5))"
+f("2 + (3 / -5)") ===> "2 + 3 / -5"
+f("x+(y+z)+(t+(v+w))") ===> "x+y+z+t+v+w"
+
+
+Please write a function that removes unnecessary parenthesis for any given string.
+You can write this in any language but please provide it in an executable format with instructions.
+
+Thank you and please feel free to reach out if you have any questions for me about the programming questions or MediaAlpha in general. 
+
+Best,
+Jess
+
+ s = "(2+(3+4*(5*6)))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+ s = "(2+(3+4/(5*6)))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+ s = "(2+(3+4/(5*6*(2**3))))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s="(5*6*(2**3))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s="(4/(5*6*(2**3)))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s="4/(2**3)"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s="4/(5*(2**3))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s="4*(5*(2**3))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+ s="(1+(1+(1+(1+1))))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+
+ s = "(2+(3+3+(4+4)+(5+5-(6+6)+7)))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+
+# s = "(2+(3+3+(4+4)))*1"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s = "7*(2+(3+3))"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s = "7*(2+(3+3))*9"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s = "1*(2+(3+3))**2"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s = "(1*(2+(3+3)))/(4+5)"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s = "2+(2-2)+(3+3)-2"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s = "(1+1-(1+1))+1-(1+1)"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s="2+(2-2)+(2-2)"
+# print("before:", s, "after: ", rm_p(s))
+# print("---------------")
+#
+# s = "1+(2-(3*(2**2)))"
+# print("before:", s, "after: ", rm_p(s))

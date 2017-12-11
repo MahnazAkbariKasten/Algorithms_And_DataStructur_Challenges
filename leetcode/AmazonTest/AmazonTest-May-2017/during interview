@@ -1,0 +1,56 @@
+"ababc"   c
+def find_unique(str_in):
+    if str_in == "": return -1
+    tmp = {}
+    for c in str_in:
+        if tmp[c]:
+            tmp[c] += 1
+        else:
+            tmp[c] = 1
+
+    for c in str_in:
+        if tmp[c] == 1: return c
+    return -1
+
+
+    0 0 1
+    0 1 0
+    1 1 0
+
+
+    0 0 1
+    0 0 0
+    1 1 0
+
+    0 0 0 0 0 1
+    1 0 0 0 0 1
+    0 1 0 0 1 0
+    0 0 1 1 0 0
+
+    def neighbours((row,col)):
+        nei=[]
+        if row == 0:
+            if col
+        return nei
+
+    def cluster(matrix)
+        cluster_list=[]
+        curr_cluster=[]
+        cell_visited = {}
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                if matrix[i][j] == 1 and matrix[i][j] not in cell_visited:
+                    cell_visited.add((i,j))
+                    curr_cluster.append((i,j))
+                    for nei in neighbours((i, j)):
+                        if matrix[nei[0]][nei[1]] == 1:
+
+
+
+
+
+
+
+    matrix = [[0, 0 , 1], [0, 1, 0], [1, 1, 0]]
+    clusters = cluster(matrix)
+    print(len(clusters)
